@@ -1,0 +1,13 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;/*evita que o background se repita, deixando somente a imagem pura na página */
+    background-position: center center;/*posiciona a imagem do background no centro da página */
+    background-size: cover;/*estica o background por todo o conteúdo */
+    background-attachment: fixed; /*deixa o background fixo ao rolar o mouse */
+}
+
+p {
+    color: rgb(34, 34, 34);
+
+    
+}
